@@ -1,0 +1,15 @@
+@charset "utf-8";
+body {
+  font-family:"Stencil Std";
+  background-size: cover;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  background-image:url(Fundo.jpg);
+			-webkit-background-size: 100% 100%;
+  			-moz-background-size: 100% 100%;
+  			-o-background-size: 100% 100%;
+  			background-size: 100% 100%;
+  			background-color:#000;
+  			background-attachment:fixed;
+}
